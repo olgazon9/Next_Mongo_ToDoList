@@ -32,7 +32,7 @@ To get started with My-App, follow these steps:
 Install the project dependencies:
 npm install
 
-tart the development server:
+start the development server:
 npm run dev
 
 Open your browser and visit http://localhost:3000 to use the application.
@@ -52,4 +52,4 @@ React: A JavaScript library for building user interfaces.
 
 MongoDB: A NoSQL database for storing tasks.
 
-Start the development server:
+
